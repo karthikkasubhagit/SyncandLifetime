@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36109.1 d17.14
+VisualStudioVersion = 17.14.36109.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sync", "Sync\Sync.csproj", "{5DB5829D-98C7-4FE3-9FAC-24A529C80AA9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lifetime", "Lifetime\Lifetime.csproj", "{D3E86DBE-D574-4094-902B-EE109B6F475D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadSynchronization", "ThreadSynchronization\ThreadSynchronization.csproj", "{1ADD219A-77BC-4B71-B2C1-39D083651B0A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{D3E86DBE-D574-4094-902B-EE109B6F475D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3E86DBE-D574-4094-902B-EE109B6F475D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3E86DBE-D574-4094-902B-EE109B6F475D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ADD219A-77BC-4B71-B2C1-39D083651B0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ADD219A-77BC-4B71-B2C1-39D083651B0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ADD219A-77BC-4B71-B2C1-39D083651B0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ADD219A-77BC-4B71-B2C1-39D083651B0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
